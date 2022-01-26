@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ApiServer<api>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.blackbetty.api.ApiServer",
+      "projectName": "api",
+      "args": ""
+    }
+  ]
+}
