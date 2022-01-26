@@ -1,6 +1,6 @@
 # BlackBetty betting application
 
-Test project for Spring Boot REST
+Test project for Spring Boot REST API
 
 ## Setup
 
