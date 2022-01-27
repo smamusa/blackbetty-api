@@ -16,7 +16,7 @@ Run included Maven wrapper
 
 `mvnw clean spring-boot:run`
 
-Open [http://localhost:8080/h2](http://localhost:8080/h2) to access the in data H2 memory DB admin panel.
+Open [http://localhost:8080/api/h2](http://localhost:8080/api/h2) to access the in data H2 memory DB admin panel.
 
 If the port is taken change the `server.port=8080` in `application.properties` to something more suitable.
 
